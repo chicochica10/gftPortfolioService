@@ -1,1 +1,4 @@
 /target/
+/.keep
+/.gitignore
+*.cache

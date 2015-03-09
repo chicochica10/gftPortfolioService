@@ -1,0 +1,14 @@
+{"userSet":[
+     {
+       "id":"333e3333-e29b-41d4-a716-446655440000",
+       "firstName":"Sherlock",
+       "lastName":"Holmes",
+       "email":"skhs@gft.com"
+     },
+     {
+       "id":"444e4444-e29b-41d4-a716-446655440000",
+       "firstName":"Michael",
+       "lastName":"Moriarty",
+       "email":"mlmy@gft.com"
+     }
+ ]}
